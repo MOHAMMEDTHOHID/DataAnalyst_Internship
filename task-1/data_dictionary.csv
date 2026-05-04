@@ -1,0 +1,9 @@
+Column Name,Data Type,Description,Example
+Customer_ID,String,Unique identifier for each customer,CUST_001
+Age,Integer,Age of the customer,28
+Gender,String,Customer gender (standardized),Male
+Category,String,Product category,Electronics
+Location,String,Customer location,Mumbai
+Season,String,Season of purchase,Summer
+Review Rating,Float,Customer rating (cleaned with median),4.2
+Age Group,Category,Derived age classification,Young
