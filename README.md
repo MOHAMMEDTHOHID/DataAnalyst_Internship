@@ -12,3 +12,12 @@ Final Output:
 The process resulted in a refined, analysis-ready dataset that serves as the basis for the upcoming Exploratory Data Analysis (EDA) tasks.
 Here is implementation link:
 https://www.linkedin.com/posts/shaik-mohammed-thohid-0a6738352_dataanalytics-ugcPost-7457097319960743936-DGFQ?utm_source=share&utm_medium=member_android&rcm=ACoAAFgHnX4BNxREatoHMxRwXiYVo7cFj6bL_XA
+
+# Task 2: Exploratory Data Analysis & Business Intelligence
+Project Overview
+This repository contains the deliverables for Task 2 of the ApexPlanet Data Analytics Internship. It includes statistical summaries, SQL-driven business insights, and an executive dashboard mock-up.
+Executive Dashboard Mock-up
+ Key Insights
+Top Revenue Driver: Clothing contributed the highest revenue at $103.8k.
+Subscription Model Impact: Non-subscribers make up 73% of transactional volume, highlighting a massive conversion opportunity.
+Seasonal Peak: Spring represents the highest transaction volume milestone.
