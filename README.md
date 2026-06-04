@@ -1,7 +1,7 @@
 #Data Analystics Internship-Apexplanet
 For Task 1: 
 Data Immersion & Wrangling, I focused on the foundational phase of the data lifecycle: acquiring, cleaning, and preparing a dataset for meaningful analysis. This stage is critical for ensuring that all subsequent insights are based on high-quality, reliable data.  
-Task 1 Summary :
+# Task 1 Summary :
 Data Familiarization: 
 I gained access to a primary dataset—such as sales transactions or customer data—and created a comprehensive data dictionary to document the meaning, type, and business relevance of every variable.  
 Quality Assessment: 
@@ -21,7 +21,8 @@ Top Revenue Driver: Clothing contributed the highest revenue at $103.8k.
 Subscription Model Impact: Non-subscribers make up 73% of transactional volume, highlighting a massive conversion opportunity.
 Seasonal Peak: Spring represents the highest transaction volume milestone.
 
-**Task 3: Deep-Dive Analysis & Dashboarding**
+# Task 3: Deep-Dive Analysis & Dashboarding
+
 KPI Architecture: Formulates quantifiable, mathematical metrics like Average Order Value to systematically measure overall business success against target goals.
 Business Rationale: Links backend operational calculations directly to corporate objectives to evaluate core growth, profitability, and customer retention.
 Behavioral Segmentation: Divides a vast transactional dataset into distinct customer cohorts based on explicit purchasing rules and frequency.
